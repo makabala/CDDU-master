@@ -9,7 +9,7 @@ Despite notable advancements in using deep learning algorithms to improve underw
 The decomposed features undergo implicit regularization, and their modeling features are solved using a gradient descent algorithm. Simultaneously, we introduce a learnable spatial joint residual aggregation module to replace the proximal operator and, finally, utilize a feature aggregation module to merge features, reducing the loss of spatial features. Extensive experimental studies were conducted on three benchmark underwater datasets, demonstrating the superior performance of our proposed algorithm. 
 Our model and code can be found in the XXX link.
 
-### Keywords
+## Keywords
 Underwater image enhancement; Deep unfloding network; Feature fusion; Optimization algorithm
 
 ##Codes
