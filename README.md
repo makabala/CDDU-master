@@ -1,4 +1,4 @@
-# Dual-Degradation Convolutional Dictionary Deep Unfolding Network for underwater image enhancement
+# CDDU: Convolutional Dictionary Deep Unfolding Network for underwater image enhancement
 
 ## Introduction
 In this project, we use Ubuntu 18.04, Python 3.7, Pytorch 1.13.1 and one NVIDIA TITAN RTX. 
